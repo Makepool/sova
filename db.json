@@ -1,0 +1,40 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Abbey Road",
+      "year": "1969",
+      "artistId": 2
+    },
+    {
+      "id": 2,
+      "title": "Thriller",
+      "year": "1982",
+      "artistId": 1
+    },
+    {
+      "id": 3,
+      "title": "What's Going On",
+      "year": "1971",
+      "artistId": 1
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Marvin Gaye"
+    },
+    {
+      "id": 2,
+      "name": "The Beatles"
+    },
+    {
+      "id": 3,
+      "name": "Michael Jackson"
+    },
+    {
+      "id": 4,
+      "name": "Lady Gaga"
+    }
+  ]
+}
